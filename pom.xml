@@ -31,6 +31,8 @@
 					<password>Welcome@123</password>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
+					<application>target/case-support-maven-deployment-v1.0-3.8.x-1.0.0-SNAPSHOT.zip</application>
+					
 					<domain>${project.basedir}/domain</domain>
 				</configuration>
 				<executions>
