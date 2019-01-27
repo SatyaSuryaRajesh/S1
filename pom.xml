@@ -27,12 +27,10 @@
 					<!-- muleVersion is the runtime version as it appears on the CloudHub 
 						interface -->
 					<muleVersion>3.9.2</muleVersion>
-					<username>TestMuleAPP</username>
-					<password>Welcome@123</password>
+					<username>prasadteja141</username>
+					<password>Prasad-1</password>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
-					<application>target/s1-1.0.0-SNAPSHOT</application>
-					<applicationName>s1</applicationName>
 					<domain>${project.basedir}/domain</domain>
 				</configuration>
 				<executions>
