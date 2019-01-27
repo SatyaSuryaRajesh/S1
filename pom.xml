@@ -32,7 +32,7 @@
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
 					<application>target/s1-1.0.0-SNAPSHOT</application>
-					
+					<applicationName>s1</applicationName>
 					<domain>${project.basedir}/domain</domain>
 				</configuration>
 				<executions>
